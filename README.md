@@ -1,6 +1,6 @@
 # Algoritmos1_Essaya
 # Lenguaje del curso - Python
-#Programa
+# Programa
 Concepto de algoritmo. 
 Concepto de programa. 
 Lenguajes de programación. 
