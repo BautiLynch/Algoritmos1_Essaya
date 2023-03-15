@@ -1,6 +1,3 @@
-from typing import List
-
-
 class _Nodo:
     def __init__(self, dato, prox = None):
         self.dato = dato
