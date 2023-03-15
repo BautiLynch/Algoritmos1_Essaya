@@ -1,26 +1,26 @@
 # Algoritmos1_Essaya
 # Lenguaje del curso - Python
 # Programa
-*Concepto de algoritmo
+* Concepto de algoritmo
 
-*Concepto de programa 
+* Concepto de programa 
 
-*Lenguajes de programación
+* Lenguajes de programación
 
-*Tipos de datos simples
+* Tipos de datos simples
 
-*Estructuras de control
+* Estructuras de control
 
-*Modularización
+* Modularización
 
-*Tipos de datos estructurados
+* Tipos de datos estructurados
 
-*Algoritmos básicos de ordenamiento y búsqueda
+* Algoritmos básicos de ordenamiento y búsqueda
 
-*Introducción a la complejidad computacional
+* Introducción a la complejidad computacional
 
-*Archivos
+* Archivos
 
-*Tipos de datos abstractos
+* Tipos de datos abstractos
 
-*Recursividad
+* Recursividad
